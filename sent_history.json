@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "title": "Flipkart approves second ESOP liquidity event for employees",
-    "url": "https://entrackr.com/news/flipkart-approves-second-esop-liquidity-event-for-employees-12139618",
-    "key": "approves employees esop event flipkart liquidity second",
-    "company": "Flipkart"
-  },
-  {
-    "date": "2026-07-07",
-    "title": "Nykaa up 3%, hits 52-wk high on upbeat Q1 forecast; brokerage maintains Buy",
-    "url": "https://www.business-standard.com/markets/news/nykaa-spurts-3-hits-52-week-high-on-upbeat-q1-forecast-jm-financial-maintains-buy-rating-on-stock-126070600180_1.html",
-    "key": "brokerage forecast high hits maintains nykaa upbeat",
-    "company": ""
-  },
-  {
-    "date": "2026-07-07",
-    "title": "Adidas expands India sourcing with new Evervan Kothari plant set to add capacity",
-    "url": "https://www.thehindubusinessline.com/news/adidas-expands-india-sourcing-with-new-evervan-kothari-plant-set-to-add-capacity/article71187905.ece",
-    "key": "adidas capacity evervan expands india kothari plant sourcing with",
-    "company": "Adidas India"
-  },
-  {
     "date": "2026-07-08",
     "title": "lululemon Announces First India Store at DLF Promenade",
     "url": "https://boldoutline.in/first-lululemon-store-in-india-to-open-in-new-delhi/",
@@ -201,5 +180,26 @@
     "url": "https://www.worldfootwear.com/news/adidas-expands-india-sourcing-with-new-facility/11644.html",
     "key": "adidas expands facility india sourcing with",
     "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Myntra scales AI integration; cuts seller onboarding time to under 2 days",
+    "url": "https://economictimes.indiatimes.com/tech/technology/myntra-scales-ai-integration-cuts-seller-onboarding-time-to-under-2-days/articleshow/132458134.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
+    "key": "cuts days integration myntra onboarding scales seller time under",
+    "company": "Myntra"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Reliance Retail details blueprint to double operating EBITDA in three-year plan",
+    "url": "https://m.economictimes.com/industry/services/retail/reliance-retail-details-blueprint-to-double-operating-ebitda-in-three-year-plan/articleshow/132464093.cms",
+    "key": "blueprint details double ebitda operating plan reliance retail three year",
+    "company": "Reliance Retail"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Chandigarh Consumer Commission Order Asics India To Refund Price Of Defective Shoes, Pay Rs.10,000...",
+    "url": "https://www.livelaw.in/consumer-cases/chandigarh-consumer-commission-order-asics-india-to-refund-price-of-defective-shoes-pay-rs10000-compensation-541757",
+    "key": "asics chandigarh commission consumer defective india order price refund shoes",
+    "company": "Asics India"
   }
 ]
