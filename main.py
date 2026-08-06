@@ -58,6 +58,8 @@ NIKE_COMPETITORS = [
 
 WESTBURY_COMPETITORS = [
     "BrandMan Retail",
+    "Unicorn Sportswear & Lifestyle Pvt Ltd"
+    "Agilitas Sports Private Limited"
 ]
 
 # Flat list for history/dedup bookkeeping.
