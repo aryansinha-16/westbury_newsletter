@@ -83,3 +83,14 @@ rather than something the model has to remember.
 ⚠️ This service has written no `sent_history.json` since **2026-07-24** — it
 looks stopped or failing on Railway. The code here is current; the deployment is
 not verified.
+
+## Harvest window & timezone (fixed 2026-08-24)
+- Serper and the RSS reader now read ONE constant, `HARVEST_DAYS` (default 1,
+  env-overridable). They used to disagree — `qdr:1d` vs `timedelta(days=2)` —
+  so a newsletter saying "news from the past day" could carry two-day-old RSS
+  items.
+- The edition date and the dedup history key come from `datetime.now(IST)`, a
+  fixed UTC+05:30. The container runs UTC; at the 02:30 UTC cron the dates
+  coincide by luck, but any cron after 18:30 UTC would stamp yesterday for
+  every Indian reader AND write that wrong date into the archive. IST has no
+  DST, so a fixed offset is exact and needs no tzdata in the slim image.
