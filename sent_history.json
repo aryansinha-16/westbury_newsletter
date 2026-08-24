@@ -1,5 +1,481 @@
 [
   {
+    "date": "2026-06-24",
+    "title": "Amazon CEO Andy Jassy visits India; company announces quick commerce scale-up plans for over 300 cities",
+    "url": "https://www.moneycontrol.com/news/business/amazon-ceo-andy-jassy-visits-india-company-announces-quick-commerce-scale-up-plans-for-over-300-cities-13957774.html",
+    "key": "amazon andy announces cities commerce company india jassy over plans quick scale visits",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Amazon to expand Now to over 300 cities and build India\u2019s largest \u2018delivery in minutes\u2019 network; launches \u2018Sammaan\u2019 \u2013 a dedicated program for delivery associate welfare",
+    "url": "https://www.aboutamazon.in/news/retail/amazon-now-300-cities-delivery-in-minutes",
+    "key": "amazon associate build cities dedicated delivery expand india largest launches minutes network over program sammaan welfare",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Brandman Retail to host analyst meet on Jun 24",
+    "url": "https://scanx.trade/stock-market-news/companies/brandman-retail-to-host-analyst-meet-on-jun-24/43604673",
+    "key": "analyst brandman host meet retail",
+    "company": "BrandMan Retail"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Myntra and Kindlife Bring Research-Led Korean Beauty Brands to India",
+    "url": "https://www.indianretailer.com/news/myntra-and-kindlife-bring-research-led-korean-beauty-brands-india",
+    "key": "beauty brands bring india kindlife korean myntra research",
+    "company": "Myntra"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Nike appoints new CFO",
+    "url": "https://in.fashionnetwork.com/news/Nike-appoints-new-cfo,1845584.html",
+    "key": "appoints nike",
+    "company": "Nike India"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Quick commerce race intensifies as Flipkart Minutes and Amazon Now scale up operations",
+    "url": "https://www.thehindu.com/news/cities/bangalore/quick-commerce-race-intensifies-as-flipkart-minutes-crosses-1000-micro-fulfilment-centers/article71140761.ece",
+    "key": "amazon commerce flipkart intensifies minutes operations quick race scale",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Tata CLiQ to Launch Lululemon Stores in India, Strengthening Premium Athleisure Retail Push",
+    "url": "https://www.indianretailer.com/franchisetv/archives/news/tata-cliq-launch-lululemon-stores-india-strengthening-premium-athleisure-retail-push",
+    "key": "athleisure cliq india launch lululemon premium push retail stores strengthening tata",
+    "company": "Tata CLiQ"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Virat Kohli's Rs 300-Crore Gamble: Why He Walked Away From Puma To Build An Indian Sports Brand",
+    "url": "https://www.ndtvprofit.com/business/virat-kohlis-rs-300-crore-gamble-why-he-walked-away-from-puma-to-build-an-indian-sports-brand-11677519",
+    "key": "away brand build crore from gamble indian kohli puma sports virat walked",
+    "company": "Puma India"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Walmart's Flipkart, Amazon step up India 'quick commerce' bet as competition heats up",
+    "url": "https://www.reuters.com/world/india/walmarts-flipkart-plans-india-quick-commerce-expansion-ahead-ipo-2026-06-24/",
+    "key": "amazon commerce competition flipkart heats india quick step walmart",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Amazon CEO Andy Jassy visits India; co-announces quick commerce scale-up plans for over 300 cities",
+    "url": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-visits-india-co-announces-quick-commerce-amazon-now-scale-up-plans/article71142247.ece/amp/",
+    "key": "amazon andy announces cities commerce india jassy over plans quick scale visits",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Asics, Rohan Bopanna academy join hands to nurture young tennis players",
+    "url": "https://www.business-standard.com/sports/business/asics-rohan-bopanna-academy-join-hands-to-nurture-young-tennis-players-126062400783_1.html",
+    "key": "academy asics bopanna hands join nurture players rohan tennis young",
+    "company": "Asics India"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Bata India appoints Nike\u2019s Sanjay Rao as new MD & CEO; shares increase 17%",
+    "url": "https://www.magzter.com/stories/newspaper/The-New-Indian-Express-Madurai/BATA-INDIA-APPOINTS-NIKES-SANJAY-RAO-AS-NEW-MD-CEO-SHARES-INCREASE-17",
+    "key": "appoints bata increase india nike sanjay shares",
+    "company": "Nike India"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Flipkart extends lead in Indian e-commerce, Myntra widens lead in fashion, says BofA",
+    "url": "https://www.thehindu.com/business/flipkart-extends-lead-in-indian-e-commerce-myntra-widens-lead-in-fashion-says-bofa/article71127002.ece",
+    "key": "bofa commerce extends fashion flipkart indian lead myntra says widens",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "India's Nykaa aims to surpass $5 billion in goods sold by fiscal 2030",
+    "url": "https://www.reuters.com/world/india/indias-nykaa-aims-surpass-5-bln-goods-sold-by-fy30-2026-06-18/",
+    "key": "2030 aims billion fiscal goods india nykaa sold surpass",
+    "company": ""
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Myntra Beauty accelerates K-Beauty portfolio expansion in partnership with kindlife to launch Frankly and Seapuri",
+    "url": "https://boldoutline.in/myntra-beauty-accelerates-k-beauty-portfolio-expansion-in-partnership-with-kindlife-to-launch-frankly-and-seapuri/",
+    "key": "accelerates beauty expansion frankly kindlife launch myntra partnership portfolio seapuri with",
+    "company": "Myntra"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Quick Commerce Race Heats Up: Flipkart Minutes Eyes 1,500 Dark Stores, Amazon 300 Cities",
+    "url": "https://inc42.com/buzz/quick-commerce-race-heats-up-flipkart-minutes-eyes-1500-dark-stores-amazon-300-cities/",
+    "key": "amazon cities commerce dark eyes flipkart heats minutes quick race stores",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Reliance Retail's Yousta embraces football with FIFA collection",
+    "url": "https://ww.fashionnetwork.com/news/Reliance-retail-s-yousta-embraces-football-with-fifa-collection,1846839.html",
+    "key": "collection embraces fifa football reliance retail with yousta",
+    "company": "Reliance Retail"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Skechers partners with Brandman Retail for India market expansion",
+    "url": "https://www.retail4growth.com/news/skechers-partners-with-brandman-retail-for-india-market-expansion-8033",
+    "key": "brandman expansion india market partners retail skechers with",
+    "company": "Skechers India"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Tata CLiQ to open Lululemon stores across India in offline push",
+    "url": "https://www.retail-insight-network.com/news/tata-cliq-lululemon-stores-india/",
+    "key": "across cliq india lululemon offline open push stores tata",
+    "company": "Tata CLiQ"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Amazon announces it will invest $48 billion in India by 2030",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-india-investment",
+    "key": "2030 amazon announces billion india invest will",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Department of Posts and Flipkart India sign agreement to strengthen e-commerce logistics ecosystem",
+    "url": "https://newsonair.gov.in/department-of-posts-and-flipkart-india-sign-agreement-to-strengthen-e-commerce-logistics-ecosystem/",
+    "key": "agreement commerce department ecosystem flipkart india logistics posts sign strengthen",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "It\u2019s the Final Hours of Prime Day\u2014Here Are the Travel Deals Worth Shopping",
+    "url": "https://www.cntraveler.com/story/amazon-prime-day-deals-06-26-2026",
+    "key": "deals final here hours prime shopping travel worth",
+    "company": ""
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Zee adds Lenovo, Adidas, JLR to FIFA World Cup 2026 advertiser roster as knockout stage lifts brand interest",
+    "url": "https://www.fortuneindia.com/amp/story/business-news/zee-adds-lenovo-adidas-jlr-to-fifa-world-cup-2026-advertiser-roster-as-knockout-stage-lifts-brand-interest/145193",
+    "key": "2026 adds adidas advertiser brand fifa interest knockout lenovo lifts roster stage world",
+    "company": "Adidas India"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "Brandman Retail approves increased remuneration for directors",
+    "url": "https://scanx.trade/stock-market-news/companies/brandman-retail-approves-increased-remuneration-for-directors/44100421",
+    "key": "approves brandman directors increased remuneration retail",
+    "company": "BrandMan Retail"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Brandman Retail concludes analyst meet with Fintrekk Capital",
+    "url": "https://scanx.trade/stock-market-news/companies/brandman-retail-to-host-analyst-meet-on-jun-24/43604673",
+    "key": "analyst brandman capital concludes fintrekk meet retail with",
+    "company": "BrandMan Retail"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Brandman Retail reconstitutes Internal Complaints Committee",
+    "url": "https://scanx.trade/stock-market-news/companies/brandman-retail-reconstitutes-internal-complaints-committee/44208142",
+    "key": "brandman committee complaints internal reconstitutes retail",
+    "company": "BrandMan Retail"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Flipkart GOAT Sale iPhone Deals Revealed: The Ultimate 2026 Buying Guide",
+    "url": "https://paidfreedroid.com/2026/06/flipkart-goat-sale-iphone-deals-buying-guide-2026.html",
+    "key": "2026 buying deals flipkart goat guide iphone revealed sale ultimate",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Puneet Gupta Appointed Director, Head of Amazon Devices India at Amazon",
+    "url": "https://hrtoday.in/puneet-gupta-appointed-director-head-of-amazon-devices-india-at-amazon/",
+    "key": "amazon appointed devices director gupta head india puneet",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Flipkart, Amazon Flex Logistics Muscles; Will It Bring New Growth Levers?",
+    "url": "https://inc42.com/features/flipkart-amazon-flex-logistics-muscles-will-it-bring-new-growth-levers/",
+    "key": "amazon bring flex flipkart growth levers logistics muscles will",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Prime Day 2026: Up to 80% off across electronics, fashion and more",
+    "url": "https://www.aboutamazon.in/news/retail/prime-day-2026-india-deals",
+    "key": "2026 across electronics fashion more prime",
+    "company": ""
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Skechers set to move global media mandate to Havas in major account shift",
+    "url": "https://www.storyboard18.com/agency-news/skechers-global-media-mandate-havas-102600.htm",
+    "key": "account global havas major mandate media move shift skechers",
+    "company": "Skechers India"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "iPhone 17 Pro Max, iPhone Air and More to Go on Sale at Discounted Prices During the Upcoming Flipkart Sa...",
+    "url": "https://www.gadgets360.com/mobiles/news/flipkart-goat-sale-iphone-17-16-deals-revealed-discounts-offers-features-11700681",
+    "key": "discounted during flipkart iphone more prices sale upcoming",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "South Korean Supplier For Adidas To Set Up First India Plant In Kuppam, Generate 17,465 Jobs",
+    "url": "https://www.etvbharat.com/amp/en/state/south-korean-supplier-for-adidas-to-set-up-first-india-plant-in-kuppam-generate-17465-jobs-enn26063002619",
+    "key": "adidas first generate india jobs korean kuppam plant south supplier",
+    "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Ajio taps Vserv AudiencePro to boost marketing efficiency and customer acquisition",
+    "url": "https://www.storyboard18.com/amp/brand-marketing/ajio-taps-vserv-audiencepro-to-boost-marketing-efficiency-and-customer-acquisition-102815.htm",
+    "key": "acquisition ajio audiencepro boost customer efficiency marketing taps vserv",
+    "company": "Ajio"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Phoenix Kothari plans $1 billion investment in Tamil Nadu over 5 years",
+    "url": "https://www.business-standard.com/industry/news/global-footwear-firms-boost-tamil-nadu-sourcing-adidas-unit-starts-in-july-126062301152_1.html",
+    "key": "billion investment kothari nadu over phoenix plans tamil years",
+    "company": ""
+  },
+  {
+    "date": "2026-07-02",
+    "title": "US Stocks: Nike shares fall on grim sales outlook; China woes hit turnaround plans",
+    "url": "https://m.economictimes.com/markets/us-stocks/news/us-stocks-nike-shares-fall-on-grim-sales-outlook-china-woes-hit-turnaround-plans/articleshow/132116899.cms",
+    "key": "china fall grim nike outlook plans sales shares stocks turnaround woes",
+    "company": "Nike India"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Amazon vows action against India delivery partner after fire probe concludes",
+    "url": "https://www.reuters.com/world/india/amazon-vows-action-against-india-delivery-partner-after-fire-probe-concludes-2026-07-02/",
+    "key": "action after against amazon concludes delivery fire india partner probe vows",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Flipkart bets on SuperCoins to outlast India's discount wars",
+    "url": "https://www.livemint.com/companies/news/flipkart-supercoins-loyalty-programme-uber-rewards-ecosystem-ecommerce-strategy-11782811544515.html",
+    "key": "bets discount flipkart india outlast supercoins wars",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Flipkart hires former Tata Digital CTO Vinay Vaidya to lead supply chain technology",
+    "url": "https://www.thehindubusinessline.com/info-tech/flipkart-hires-former-tata-digital-cto-vinay-vaidya-to-lead-supply-chain-technology/article71174826.ece",
+    "key": "chain digital flipkart former hires lead supply tata technology vaidya vinay",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Inside Brandman Retail's Playbook for Premium Global Brands",
+    "url": "https://www.indianretailer.com/interview/retail-people/fashion-accessories/inside-brandman-retails-playbook-premium-global-brands",
+    "key": "brandman brands global inside playbook premium retail",
+    "company": "BrandMan Retail"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Asics running shoes worth Rs 6,499 lost sole in a month; consumer panel orders refund, compensation",
+    "url": "https://timesofindia.indiatimes.com/legal/news/asics-running-shoes-worth-rs-6499-lost-sole-in-a-month-consumer-panel-orders-refund-compensation/amp_articleshow/132152565.cms",
+    "key": "asics compensation consumer lost month orders panel refund running shoes sole worth",
+    "company": "Asics India"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Flipkart GOAT Sale 2026 to start in India on July 4: iPhone 17, Samsung Galaxy S25, HP laptops and more a",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/flipkart-goat-sale-2026-to-start-in-india-on-july-4-iphone-17-samsung-galaxy-s25-hp-laptops-and-more-available-at-a-discount/articleshow/132163274.cms",
+    "key": "2026 flipkart galaxy goat india iphone july laptops more sale samsung start",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Prime Day 2026 starts tonight: Early deals are now live",
+    "url": "https://www.aboutamazon.in/news/retail/prime-day-2026-india-deals",
+    "key": "2026 deals early live prime starts tonight",
+    "company": ""
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Reliance Retail Appoints Abhishek Gupta as Senior Vice President and Head of Finance for Fashion & Lifestyle Business",
+    "url": "https://hrtoday.in/reliance-retail-appoints-abhishek-gupta-as-senior-vice-president-and-head-of-finance-for-fashion-lifestyle-business/",
+    "key": "abhishek appoints business fashion finance gupta head lifestyle president reliance retail senior vice",
+    "company": "Reliance Retail"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Retail India News: Virat Kohli's one8 Makes Market Debut",
+    "url": "https://www.indianretailer.com/news/retail-india-news-virat-kohlis-one8-makes-market-debut",
+    "key": "debut india kohli makes market news one8 retail virat",
+    "company": ""
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Flipkart ranked 5th best employer by Great Place To Work; underscoring a strong people-first culture",
+    "url": "https://m.economictimes.com/industry/services/retail/flipkart-ranked-5th-best-employer-by-great-place-to-work-underscoring-a-strong-people-first-culture/articleshow/132156669.cms",
+    "key": "best culture employer first flipkart great people place ranked strong underscoring work",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Asics ordered to pay Rs 10,000 compensation and refund Rs 6,499 to cusomter after shoes develop sole defec",
+    "url": "https://m.economictimes.com/news/new-updates/asics-ordered-to-pay-rs-10000-compensation-and-refund-rs-6499-to-cusomter-after-shoes-develop-sole-defect/articleshow/132198646.cms",
+    "key": "after asics compensation cusomter defec develop ordered refund shoes sole",
+    "company": "Asics India"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Nykaa expects Q1 revenue growth near 30% on fashion rebound",
+    "url": "https://www.livemint.com/companies/news/nykaa-june-quarter-update-fashion-growth-beauty-industry-india-11783256747509.html",
+    "key": "expects fashion growth near nykaa rebound revenue",
+    "company": ""
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Adidas expands India sourcing with new Evervan Kothari plant set to add capacity",
+    "url": "https://www.thehindubusinessline.com/news/adidas-expands-india-sourcing-with-new-evervan-kothari-plant-set-to-add-capacity/article71187905.ece",
+    "key": "adidas capacity evervan expands india kothari plant sourcing with",
+    "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Flipkart approves second ESOP liquidity event for employees",
+    "url": "https://entrackr.com/news/flipkart-approves-second-esop-liquidity-event-for-employees-12139618",
+    "key": "approves employees esop event flipkart liquidity second",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Nykaa up 3%, hits 52-wk high on upbeat Q1 forecast; brokerage maintains Buy",
+    "url": "https://www.business-standard.com/markets/news/nykaa-spurts-3-hits-52-week-high-on-upbeat-q1-forecast-jm-financial-maintains-buy-rating-on-stock-126070600180_1.html",
+    "key": "brokerage forecast high hits maintains nykaa upbeat",
+    "company": ""
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Adidas Boosts India Supply Chain Capacity with New Footwear Manufacturing Facility.",
+    "url": "https://newsonprojects.com/news/adidas-boosts-india-supply-chain-capacity-with-new-footwear-manufacturing-facility",
+    "key": "adidas boosts capacity chain facility footwear india manufacturing supply with",
+    "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Nykaa Expects Robust June-quarter Growth On Fashion Rebound",
+    "url": "https://www.bwdisrupt.com/article/nykaa-expects-robust-june-quarter-growth-on-fashion-rebound-613499",
+    "key": "expects fashion growth june nykaa quarter rebound robust",
+    "company": ""
+  },
+  {
+    "date": "2026-07-08",
+    "title": "lululemon Announces First India Store at DLF Promenade",
+    "url": "https://boldoutline.in/first-lululemon-store-in-india-to-open-in-new-delhi/",
+    "key": "announces first india lululemon promenade store",
+    "company": ""
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Athletic brand lululemon set to open first store in India this year in partnership with Tata CLiQ",
+    "url": "https://www.thehindubusinessline.com/companies/athletic-brand-lululemon-set-to-open-first-store-in-india-this-year-in-partnership-with-tata-cliq/article71194231.ece",
+    "key": "athletic brand cliq first india lululemon open partnership store tata this with year",
+    "company": "Tata CLiQ"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Flipkart Expands Zero Commission Policy To All Fashion Products",
+    "url": "https://inc42.com/buzz/flipkart-expands-zero-commission-policy-to-all-fashion-products/",
+    "key": "commission expands fashion flipkart policy products zero",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Nykaa expects nearly 30% net revenue growth in Q1 on strong fashion sales",
+    "url": "https://yourstory.com/2026/07/nykaa-expects-net-revenue-growth-q1-on-strong-fashion-sales",
+    "key": "expects fashion growth nearly nykaa revenue sales strong",
+    "company": ""
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Flipkart takes GOAT sale campaign to \u2018India\u2019s Best Dancer\u2019 with on-set activation",
+    "url": "https://www.indianbroadcastingworld.com/flipkart-takes-goat-sale-campaign/",
+    "key": "activation best campaign dancer flipkart goat india sale takes with",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Myntra expands Desigual partnership with the launch of apparel collection in India",
+    "url": "https://retail.economictimes.indiatimes.com/amp/news/apparel-fashion/myntra-expands-desigual-partnership-with-the-launch-of-apparel-collection-in-india/132279380",
+    "key": "apparel collection desigual expands india launch myntra partnership with",
+    "company": "Myntra"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Skechers Athlete Kartik Joshi Completes Historic Kargil-to-Kanyakumari Run Across India",
+    "url": "https://www.sangritoday.com/spotlight/business/skechers-athlete-kartik-joshi-completes-historic-kargil-to-kanyakumari-run-across-india",
+    "key": "across athlete completes historic india joshi kanyakumari kargil kartik skechers",
+    "company": "Skechers India"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Adidas Opens New Footwear Plant in Karur, Tamil Nadu",
+    "url": "https://voice.lapaas.com/adidas-expands-india-sourcing-with-new-footwear-manufacturing-facility/",
+    "key": "adidas footwear karur nadu opens plant tamil",
+    "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Prime Day 2026 in India becomes the fastest Prime Day ever",
+    "url": "https://www.aboutamazon.in/news/amazon-prime/prime-day-2026-fastest-ever",
+    "key": "2026 becomes ever fastest india prime",
+    "company": ""
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Amazon India records fastest-ever Prime Day during 10th anniversary sale",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-india-records-fastest-ever-prime-day-during-10th-anniversary-sale/articleshow/132327380.cms",
+    "key": "10th amazon anniversary during ever fastest india prime records sale",
+    "company": "Amazon India"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "CM Vijay to break ground for Adidas shoe factory in Karur",
+    "url": "https://timesofindia.indiatimes.com/city/chennai/cm-vijay-to-break-ground-for-adidas-shoe-factory-in-karur/articleshow/132296792.cms",
+    "key": "adidas break factory ground karur shoe vijay",
+    "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Communities over campaigns: Saurabh Sharma on ASICS\u2019 long-term play for Indian tennis",
+    "url": "https://www.adgully.com/post/17928/communities-over-campaigns-saurabh-sharma-on-asics-long-term-play-for-indian-tennis",
+    "key": "asics campaigns communities indian long over play saurabh sharma tennis term",
+    "company": "Asics India"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Seller body drags Flipkart to CCI for unfair practices",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/seller-body-drags-flipkart-to-cci-for-unfair-practices/articleshow/132300649.cms",
+    "key": "body drags flipkart practices seller unfair",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Flipkart sacks delivery agent after Bengaluru sexual harassment case: 'Even single such incident is unacceptable",
+    "url": "https://www.livemint.com/news/india/even-single-such-incident-is-unacceptable-flipkart-sacks-delivery-agent-after-bengaluru-sexual-harassment-case-11783863450954.html",
+    "key": "after agent bengaluru case delivery even flipkart harassment incident sacks sexual single such unacceptable",
+    "company": "Flipkart"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "JSW announced as India's performance, lifestyle partner for 2026 CWG, Asiad",
+    "url": "https://www.business-standard.com/amp/sports/business/jsw-announced-as-india-s-performance-lifestyle-partner-for-2026-cwg-asiad-126071100549_1.html",
+    "key": "2026 announced asiad india lifestyle partner performance",
+    "company": ""
+  },
+  {
     "date": "2026-07-14",
     "title": "Flipkart deepens West Bengal investments, backs jobs and MSMEs",
     "url": "https://economictimes.indiatimes.com/industry/services/retail/flipkart-deepens-west-bengal-investments-backs-jobs-and-msmes/articleshow/132366043.cms",
@@ -36,16 +512,16 @@
   },
   {
     "date": "2026-07-16",
-    "title": "Reliance Sets July 17 for Q1 Financials as Analysts Eye 12% Growth in Digital Services",
-    "url": "https://www.sahi.com/news/reliance-sets-july-17-for-q1-financials-as-analysts-eye-12-growth-in-digital-services-246-PE1_CORP",
-    "key": "analysts digital financials growth july reliance services sets",
+    "title": "Onitsuka Tiger Introduces the ROTEMIT: A Contemporary Court Sneaker Inspired by 1980s Volleyball Heritage",
+    "url": "https://www.passionateinmarketing.com/onitsuka-tiger-introduces-the-rotemit-a-contemporary-court-sneaker-inspired-by-1980s-volleyball-heritage/",
+    "key": "1980s contemporary court heritage inspired introduces onitsuka rotemit sneaker tiger volleyball",
     "company": ""
   },
   {
     "date": "2026-07-16",
-    "title": "Onitsuka Tiger Introduces the ROTEMIT: A Contemporary Court Sneaker Inspired by 1980s Volleyball Heritage",
-    "url": "https://www.passionateinmarketing.com/onitsuka-tiger-introduces-the-rotemit-a-contemporary-court-sneaker-inspired-by-1980s-volleyball-heritage/",
-    "key": "1980s contemporary court heritage inspired introduces onitsuka rotemit sneaker tiger volleyball",
+    "title": "Reliance Sets July 17 for Q1 Financials as Analysts Eye 12% Growth in Digital Services",
+    "url": "https://www.sahi.com/news/reliance-sets-july-17-for-q1-financials-as-analysts-eye-12-growth-in-digital-services-246-PE1_CORP",
+    "key": "analysts digital financials growth july reliance services sets",
     "company": ""
   },
   {
@@ -54,6 +530,13 @@
     "url": "https://www.worldfootwear.com/news/adidas-expands-india-sourcing-with-new-facility/11644.html",
     "key": "adidas expands facility india sourcing with",
     "company": "Adidas India"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Chandigarh Consumer Commission Order Asics India To Refund Price Of Defective Shoes, Pay Rs.10,000...",
+    "url": "https://www.livelaw.in/consumer-cases/chandigarh-consumer-commission-order-asics-india-to-refund-price-of-defective-shoes-pay-rs10000-compensation-541757",
+    "key": "asics chandigarh commission consumer defective india order price refund shoes",
+    "company": "Asics India"
   },
   {
     "date": "2026-07-18",
@@ -70,11 +553,11 @@
     "company": "Reliance Retail"
   },
   {
-    "date": "2026-07-18",
-    "title": "Chandigarh Consumer Commission Order Asics India To Refund Price Of Defective Shoes, Pay Rs.10,000...",
-    "url": "https://www.livelaw.in/consumer-cases/chandigarh-consumer-commission-order-asics-india-to-refund-price-of-defective-shoes-pay-rs10000-compensation-541757",
-    "key": "asics chandigarh commission consumer defective india order price refund shoes",
-    "company": "Asics India"
+    "date": "2026-07-19",
+    "title": "As the FIFA World Cup draws to a close, Adidas India has its sights set on the goal: Engaging with the domestic fan base",
+    "url": "https://www.fortuneindia.com/amp/story/lifestyle/as-the-fifa-world-cup-draws-to-a-close-adidas-india-has-its-sights-set-on-the-goal-engaging-with-the-domestic-fan-base/149022",
+    "key": "adidas base close domestic draws engaging fifa goal india sights with world",
+    "company": "Adidas India"
   },
   {
     "date": "2026-07-19",
@@ -82,13 +565,6 @@
     "url": "https://inc42.com/buzz/reliance-retails-ebitda-erodes-in-q1-amid-q-comm-expansion/",
     "key": "amid comm ebitda erodes expansion reliance retail",
     "company": "Reliance Retail"
-  },
-  {
-    "date": "2026-07-19",
-    "title": "As the FIFA World Cup draws to a close, Adidas India has its sights set on the goal: Engaging with the domestic fan base",
-    "url": "https://www.fortuneindia.com/amp/story/lifestyle/as-the-fifa-world-cup-draws-to-a-close-adidas-india-has-its-sights-set-on-the-goal-engaging-with-the-domestic-fan-base/149022",
-    "key": "adidas base close domestic draws engaging fifa goal india sights with world",
-    "company": "Adidas India"
   },
   {
     "date": "2026-07-21",
@@ -106,6 +582,13 @@
   },
   {
     "date": "2026-07-22",
+    "title": "ASICS joins 2026 NMDC Hyderabad Marathon as official sports goods partner",
+    "url": "https://www.business-standard.com/sports/business/asics-joins-2026-nmdc-hyderabad-marathon-as-official-sports-goods-partner-126072100665_1.html",
+    "key": "2026 asics goods hyderabad joins marathon nmdc official partner sports",
+    "company": "Asics India"
+  },
+  {
+    "date": "2026-07-22",
     "title": "Inside Myntra's AI playbook: Faster seller onboarding, smarter shopping, leaner operations",
     "url": "https://yourstory.com/2026/07/myntra-ai-seller-onboarding-shopping-tools",
     "key": "faster inside leaner myntra onboarding operations playbook seller shopping smarter",
@@ -119,11 +602,18 @@
     "company": "Tata CLiQ"
   },
   {
-    "date": "2026-07-22",
-    "title": "ASICS joins 2026 NMDC Hyderabad Marathon as official sports goods partner",
-    "url": "https://www.business-standard.com/sports/business/asics-joins-2026-nmdc-hyderabad-marathon-as-official-sports-goods-partner-126072100665_1.html",
-    "key": "2026 asics goods hyderabad joins marathon nmdc official partner sports",
+    "date": "2026-07-23",
+    "title": "ASICS renews NMDC Hyderabad Marathon partnership, debuts NOVABLAST 6 in India",
+    "url": "https://mediabrief.com/asics-renews-nmdc-hyderabad-marathon-partnership/",
+    "key": "asics debuts hyderabad india marathon nmdc novablast partnership renews",
     "company": "Asics India"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Reliance Retail expands its beauty portfolio with the launch of AJIO Beauty",
+    "url": "https://www.moneycontrol.com/news/business/reliance-retail-expands-its-beauty-portfolio-with-the-launch-of-ajio-beauty-13980997.html/amp",
+    "key": "ajio beauty expands launch portfolio reliance retail with",
+    "company": "Ajio"
   },
   {
     "date": "2026-07-23",
@@ -138,20 +628,6 @@
     "url": "https://m.economictimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/reliance-launches-ajio-beauty-to-capture-indias-booming-market/articleshow/132556783.cms",
     "key": "ajio beauty booming capture india launches market reliance",
     "company": "Ajio"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "Reliance Retail expands its beauty portfolio with the launch of AJIO Beauty",
-    "url": "https://www.moneycontrol.com/news/business/reliance-retail-expands-its-beauty-portfolio-with-the-launch-of-ajio-beauty-13980997.html/amp",
-    "key": "ajio beauty expands launch portfolio reliance retail with",
-    "company": "Ajio"
-  },
-  {
-    "date": "2026-07-23",
-    "title": "ASICS renews NMDC Hyderabad Marathon partnership, debuts NOVABLAST 6 in India",
-    "url": "https://mediabrief.com/asics-renews-nmdc-hyderabad-marathon-partnership/",
-    "key": "asics debuts hyderabad india marathon nmdc novablast partnership renews",
-    "company": "Asics India"
   },
   {
     "date": "2026-07-24",
